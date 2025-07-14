@@ -72,3 +72,5 @@ The **Abacus Exchange login** process is the essential key to secure and anonymo
 
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/photos/pause.webp" alt="Abacus Login" style="max-width: 100%;"></a>
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/photos/viewer.webp" alt="Abacus Register" style="max-width: 100%;"></a>
+
+Update: Fixed unreachable link
